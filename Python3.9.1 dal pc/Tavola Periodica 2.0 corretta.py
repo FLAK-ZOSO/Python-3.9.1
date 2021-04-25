@@ -80,4 +80,5 @@ Azoto = Elemento("Azoto", "N", 7, 2, Quindicesimo, 0.92, 300, 1772)
 Ossigeno = Elemento("Ossigeno", "O", 8, 2, Sedicesimo, 0.66, 495000, 1774)
 Fluoro = Elemento("Fluoro", "F", 9, 2, Diciassettesimo, 0.64, 270, 1771)
 Neon = Elemento("Neon", "Ne", 10, 2, Diciottesimo, 1.60, anno = 1898)
+Sodio = Elemento("Sodio", "Na", 11, 3, Primo, 1.90, 26000, 1807)
 #Qui ci vanno tutti gli altri elementi
