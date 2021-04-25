@@ -1,2 +1,2 @@
 # Python-3.9.1
-Alcuni dei miei progetti in Python dalla versione 3.9.1 in poi...
+La serie di documenti dai quali punto di creare un database degli elementi della tavola periodica che sia il più completo possibile.
