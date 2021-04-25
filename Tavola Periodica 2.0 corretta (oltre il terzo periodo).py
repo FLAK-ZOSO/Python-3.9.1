@@ -132,3 +132,23 @@ Cripton = Elemento("Cripton", "Kr", 36, 4, Diciottesimo, 2.0, 1894)
 
 #Quinto periodo
 Rubidio = Elemento("Rubidio", "Rb", 37, 5, Primo, 2.48, 310, 1861)
+Stronzio = Elemento("Stronzio", "Sr", 38, 5, Secondo, 2.15, 300, 1790)
+Ittirio = Elemento("Ittirio", "Y", 39, 5, Terzo, 1.79, 28, 1794)
+Zirconio = Elemento("Zirconio", "Zr", 40, 5, Quarto, 1.60, 220, 1789)
+Niobio = Elemento("Niobio", "Nb", 41, 5, Quinto, 1.46, 24, 1801)
+Molibdeno = Elemento("Molibdeno", "Mo", 42, 5, Sesto, 1.39, 8, 1778)
+Tecnezio = Elemento("Tecnezio", "Tc", 43, 5, Settimo, 1.36, anno = 1937)
+Rutenio = Elemento("Rutenio", "Ru", 44, 5, Ottavo, 1.33, anno = 1844)
+Rodio = Elemento("Rodio", "Rh", 45, 5, Nono, 1.34, anno = 1803)
+Palladio = Elemento("Palladio", "Pd", 46, 5, Decimo, 1.38, 0.01, 1803)
+Argento = Elemento("Argento", "Ag", 47, 5, Undicesimo, 1.44, 0.1)
+Cadmio = Elemento("Cadmio", "Cd", 48, 5, Dodicesimo, 1.54, 0.15, 1817)
+Indio = Elemento("Indio", "In", 49, 5, Tredicesimo, 1.66, 0.1, 1863)
+Stagno = Elemento("Stagno", "Sn", 50, 5, Quattordicesimo, 1.62)
+Antimonio = Elemento("Antimonio", "Sb", 51, 5, Quindicesimo, 1.59, 1)
+Tellurio = Elemento("Tellurio", "Te", 52, 5, Sedicesimo, 1.60, anno = 1782)
+Iodio = Elemento("Iodio", "I", 53, 5, Diciassettesimo, 1.33, 0.3, 1811)
+Xenon = Elemento("Xenon", "Xe", 54, 5, Diciottesimo, 2.20, anno = 1898)
+
+#Sesto periodo
+Cesio = Elemento("Cesio", "Cs", 55, 6, Primo, 2.67, 7, 1860)
