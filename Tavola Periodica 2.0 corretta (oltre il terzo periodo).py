@@ -1,20 +1,18 @@
+Lantanidi = []
+Attinidi = []
 class Elemento: #Classe Elemento
-    def __init__(self, nome, simbolo, numero, periodo, gruppo, raggio, ppm = None, anno = None): #ppm e anno di scoperta sono opzionali
+    def __init__(self, nome, simbolo, numero, periodo, gruppo, raggio, ppm = None, anno = None): #ppm e anno di scoperta sono opzionali (l'anno dovrà essere non opzionale)
         self.nome = nome
         self.simbolo = simbolo 
         self.numero = int(numero)
         self.periodo = int(periodo)
         self.gruppo = gruppo
-        self.raggio = float(raggio)
-        if self.gruppo == Diciottesimo:
-            self.gas_nobile = bool(True)
-        else:
-            self.gas_nobile = bool(False)
+        self.raggio = float(raggio) #Dovrò fare in modo che si spieghi che il raggio atomico è calcolato in picometri (m*10^-12)
         if ppm == None:
-            pass
+            self.ppm = "La concentrazione di questo elemento sulla terra è inferiore a 0.003ppm"
         else:
             self.ppm = float(ppm)
-        if anno == None:
+        if anno == None: #Qui dovrò invece aggiungere qualcosa che preveda anche la possibilità che anno sia una stringa, come per esempio "noto sin dall'antichità"
             pass
         else:
             self.anno = int(anno)
@@ -32,12 +30,24 @@ class Elemento: #Classe Elemento
             gruppo.sesto_elemento = self.nome
         if periodo == 7:
             gruppo.settimo_elemento = self.nome
-        if periodo == 6 and gruppo == "Terzo":
-            # print("Lantanide")
-            gruppo.sesto_elemento = "15 Lantanidi, lista dei Lantanidi nella lista Lantanidi"
+        if self.gruppo == Primo and periodo != 1: #Da qui iniziano le divisioni per categorie (classi) di elementi, sulla base dei dati di questo link: https://tavolaperiodica.zanichelli.it/it
+            self.metallo_alcalino = bool(True)
+        else:
+            self.metallo_alcalino = bool(False)
+        if self.gruppo == Secondo: 
+            self.metallo_alcalino_terroso = bool(True)
+        else:
+            self.metallo_alcalino_terroso = bool(False)
+        if self.gruppo == Diciottesimo:
+            self.gas_nobile = bool(True)
+        else:
+            self.gas_nobile = bool(False)
+        if periodo == 6 and gruppo == "Terzo": #Discriminazione per i Lantanidi
+            Lantanidi.append(self.nome)
             self.Lantanide = bool(True)
-        if periodo == 7 and gruppo == "Terzo":
-            # print("Attinide")
+            gruppo.sesto_elemento = "15 Lantanidi, lista dei Lantanidi nella lista Lantanidi"
+        if periodo == 7 and gruppo == "Terzo": #Discriminazione per gli Attinidi
+            Attinidi.append(self.nome)
             self.Attinide = bool(True)
             gruppo.settimo_elemento = "15 Attinidi, lista degli Attinidi nella lista Attinidi"
         if periodo == 1 or periodo == 2 or periodo == 3:
@@ -102,6 +112,23 @@ Argon = Elemento("Argon", "Ar", 18, 3, Diciottesimo, 1.91, 400, 1894)
 
 #Quarto periodo
 Potassio = Elemento("Potassio", "K", 19, 4, Primo, 2.35, 24000, 1807)
+Calcio = Elemento("Calcio", "Ca", 20, 4, Secondo, 1.97, 34000, 1808)
+Scandio = Elemento("Scandio", "Sc", 21, 4, Terzo, 1.60, 5, 1879)
+Titanio = Elemento("Titanio", "Ti", 22, 4, Quarto, 1.46, 5800, 1791)
+Vanadio = Elemento("Vanadio", "V", 23, 4, Quinto, 1.34, 150, 1830)
+Cromo = Elemento("Cromo", "Cr", 24, 4, Sesto, 1.27, 200, 1797)
+Manganese = Elemento("Manganese", "Mn", 25, 4, Settimo, 1.26, 1000, 1774)
+Ferro = Elemento("Ferro", "Fe", 26, 4, Ottavo, 1.26, 47000)
+Cobalto = Elemento("Cobalto", "Co", 27, 4, Nono, 1.25, 23, 1735)
+Nichel = Elemento("Nichel", "Ni", 28, 4, Decimo, 1.24, 80, 1751)
+Rame = Elemento("Rame", "Cu", 29, 4, Undicesimo, 1.28, 70)
+Zinco = Elemento("Zinco", "Zn", 30, 4, Dodicesimo, 1.33, 132, 1746)
+Gallio = Elemento("Gallio", "Ga", 31, 4, Tredicesimo, 1.41, 15, 1875)
+Germanio = Elemento("Germanio", "Ge", 32, 4, Quattordicesimo, 1.37, 7, 1886)
+Arsenico = Elemento("Arsenico", "As", 33, 4, Quindicesimo, 1.39, 5)
+Selenio = Elemento("Selenio", "Se", 34, 4, Sedicesimo, 1.40, 0.09, 1817)
+Bromo = Elemento("Bromo", "Br", 35, 4, Diciassettesimo, 1.14, 1.62, 1826)
+Cripton = Elemento("Cripton", "Kr", 36, 4, Diciottesimo, 2.0, ppm = None, 1894)
 
 #Quinto periodo
 Rubidio = Elemento("Rubidio", "Rb", 37, 5, Primo, 2.48, 310, 1861)
