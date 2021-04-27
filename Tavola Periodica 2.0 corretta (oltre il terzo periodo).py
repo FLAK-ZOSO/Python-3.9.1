@@ -60,6 +60,7 @@ class Elemento: #Classe Elemento
             elif periodo == 3 and (gruppo == "Terzo" or gruppo == "Quarto" or gruppo == "Quinto" or gruppo == "Sesto" or gruppo == "Settimo" or gruppo == "Ottavo" or gruppo == "Nono" or gruppo == "Decimo" or gruppo == "Undicesimo" or gruppo == "Dodicesimo"):
                 print("Questo elemento non esiste.")
                 self.nome = "ELEMENTO INESISTENTE"
+         numero = Numero(self) #Un tentativo probabilmente destinato a fallire.
 
 class Gruppo:
     def __init__(self, quanti_elementi, primo_elemento = None, secondo_elemento = None, terzo_elemento = None, quarto_elemento = None, quinto_elemento = None, sesto_elemento = None, settimo_elemento = None):
@@ -83,6 +84,19 @@ Quindicesimo = Gruppo(6)
 Sedicesimo = Gruppo(6)
 Diciassettesimo = Gruppo(6)
 Diciottesimo = Gruppo(7)
+
+class Numero:
+    def __init__(self, elemento):
+        self.elemento = elemento
+        
+_1 = Numero(Idrogeno) 
+_2 = Numero(Elio)
+_3 = Numero(Litio)
+_4 = Numero(Berilio)
+_5 = Numero(Boro)
+_6 = Numero(Carbonio)
+_7 = Numero(Azoto)
+_8 = Numero(Ossigeno) #Se a riga 63 non funziona, mi tocca fare così per altri 110 elementi mi sa...
 
 #ASSEGNAZIONE OGGETTI ELEMENTO
 
