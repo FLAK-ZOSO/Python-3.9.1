@@ -28,9 +28,14 @@ def mediana(*args):
     if (lunghezza%2 == 0): #Se la lista è pari allora si fa la media tra i centrali
         try:
             primo_centrale = int((lunghezza/2) - 0.5)
-        secondo_centrale = int(primo_centrale + 1)
-        primo_centrale = float(valori[primo_centrale])
-        secondo_centrale = float(valori[secondo_centrale])
+            secondo_centrale = int(primo_centrale + 1)
+        except TypeError:
+            pass #Mi rendo conto che in realtà questo errore non possa esistere, lunghezza è una variabile restituita da len()
+        try:
+            primo_centrale = float(valori[primo_centrale])
+            secondo_centrale = float(valori[secondo_centrale])
+        except IndexError:
+            raise IndexError(f"Per qualche motivo la funzione sorted() del modulo non ha trovato il {lunghezza}° valore. Controlla riga 26 del modulo.")
         media = float((primo_centrale + secondo_centrale) /2)
         return media
     if (lunghezza%2 == 1): #Se la lista è dispari allora si prende il valore centrale
