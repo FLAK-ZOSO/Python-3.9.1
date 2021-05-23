@@ -1,3 +1,23 @@
+# ===========================================================================
+#                                                                        (22 Maggio 2021- )
+#                                                                               statistica.py
+
+#                                                                            22 Maggio 2021
+#                                                                                    media
+
+#                                                                            22 Maggio 2021
+#                                                                                   mediana
+
+#                                                                            22 Maggio 2021
+#                                                                                     moda
+
+#                                                                            23 Maggio 2021
+#                                                                                 varianza
+
+#                                                                            23 Maggio 2021
+#                                                                    scarto_quadratico_medio
+# ===========================================================================
+
 from math import sqrt
 
 def media(lista):
@@ -24,8 +44,8 @@ def media(lista):
     media = float(somma/len(lista))
     return float(media)
 
-def mediana(*args):
-    valori = sorted(args)
+def mediana(lista):
+    valori = sorted(lista)
     lunghezza = len(valori)
     if (lunghezza%2 == 0): #Se la lista è pari allora si fa la media tra i centrali
         try:
@@ -37,7 +57,7 @@ def mediana(*args):
             primo_centrale = float(valori[primo_centrale])
             secondo_centrale = float(valori[secondo_centrale])
         except IndexError:
-            raise IndexError(f"Per qualche motivo la funzione sorted() del modulo non ha trovato il {lunghezza}° valore. Controlla riga 26 del modulo.")
+            raise IndexError(f"Per qualche motivo la funzione sorted() del modulo non ha trovato il {lunghezza}° valore.")
         mediana = float((primo_centrale + secondo_centrale) /2)
     if (lunghezza%2 == 1): #Se la lista è dispari allora si prende il valore centrale
         try:
@@ -47,8 +67,8 @@ def mediana(*args):
         mediana = valori[centrale]
     return mediana
 
-def moda(*args):
-    valori = sorted(args) #Sorted è una built-in function che riordina degli interi e dei decimali in ordine crescente
+def moda(lista):
+    valori = sorted(lista) #Sorted è una built-in function che riordina degli interi e dei decimali in ordine crescente
     contatore = 0
     ripetizioni = 0
     archivio_ripetizioni = 0
@@ -89,10 +109,22 @@ def varianza(lista):
         scarti_quadratici += scarto_quadratico
         continue
     varianza = float(scarti_quadratici / lunghezza)
-    print(f'σ ² = {varianza}')
     return varianza
 
 def scarto_quadratico_medio(lista):
     scarto_quadratico_medio = sqrt(varianza(lista))
-    print(f'σ = {scarto_quadratico_medio}')
     return scarto_quadratico_medio
+
+def statistiche(lista):
+    Media = media(lista)
+    Mediana = mediana(lista)
+    Moda = moda(lista)
+    Varianza = varianza(lista)
+    Scarto_quadratico_medio = scarto_quadratico_medio(lista)
+    print(f'valori = {lista}')
+    print(f'media = {Media}')
+    print(f'mediana = {Mediana}')
+    print(f'moda = {Moda}')
+    print(f'σ ² = {Varianza}')
+    print(f'σ = {Scarto_quadratico_medio}')
+    return
