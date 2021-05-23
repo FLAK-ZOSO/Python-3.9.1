@@ -1,10 +1,9 @@
 from math import sqrt
-import statistica
 
-def media(*args):
+def media(lista):
     somma = 0
     contatore = 0
-    for valore in args:
+    for valore in lista: #La lista come parametro dev'essere una lista e non una tupla, anche se sinceramente non so perché
         contatore = int(contatore + 1)
         try:
             valore = float(valore)
@@ -22,7 +21,7 @@ def media(*args):
                 raise TypeError(f"Il {contatore}° valore che hai inserito è di tipo {type(valore)}, hai inserito: {valore}")
             if (type(valore) == bool):
                 raise TypeError(f"Il {contatore}° valore che hai inserito è di tipo {type(valore)}, hai inserito: {valore}")
-    media = float(somma/len(args))
+    media = float(somma/len(lista))
     return float(media)
 
 def mediana(*args):
@@ -77,12 +76,11 @@ def moda(*args):
             raise TypeError(f"Il {contatore}° valore che hai inserito è di tipo {type(valore)}, hai inserito: {valore}")
     return float(moda)
 
-def varianza(*args):
-    valori = sorted(args)
-    lista = args[0]
+def varianza(lista):
+    valori = sorted(lista)
     for posizione in range(len(valori)): #Qui dovrei provare ad inserire nella funzione media() i singoli valori uno per volta
-        pass
-    valore_medio = media(args)
+        pass #Alla fine si risolve più semplicemente sostituendo *args con lista
+    valore_medio = media(valori)
     lunghezza = len(valori)
     scarti_quadratici = 0
     for valore in valori:
@@ -91,11 +89,10 @@ def varianza(*args):
         scarti_quadratici += scarto_quadratico
         continue
     varianza = float(scarti_quadratici / lunghezza)
-    print(f'σ² = {varianza}')
     print(f'σ ² = {varianza}')
     return varianza
 
-def scarto_quadratico_medio(*args):
-    scarto_quadratico_medio = sqrt(varianza(args))
+def scarto_quadratico_medio(lista):
+    scarto_quadratico_medio = sqrt(varianza(lista))
     print(f'σ = {scarto_quadratico_medio}')
     return scarto_quadratico_medio
