@@ -1,21 +1,21 @@
 # ===========================================================================
-#                                                                        (22 Maggio 2021- )
-#                                                                               statistica.py
+#                          (22 Maggio 2021 - 23 Maggio 2021)
+#                                    statistica.py
 
-#                                                                            22 Maggio 2021
-#                                                                                    media
+#                                   22 Maggio 2021
+#                                       media
 
-#                                                                            22 Maggio 2021
-#                                                                                   mediana
+#                                   22 Maggio 2021
+#                                      mediana
 
-#                                                                            22 Maggio 2021
-#                                                                                     moda
+#                                   22 Maggio 2021
+#                                       moda
 
-#                                                                            23 Maggio 2021
-#                                                                                 varianza
+#                                   23 Maggio 2021
+#                                      varianza
 
-#                                                                            23 Maggio 2021
-#                                                                    scarto_quadratico_medio
+#                                   23 Maggio 2021
+#                               scarto_quadratico_medio
 # ===========================================================================
 
 from math import sqrt
