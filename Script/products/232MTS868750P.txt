@@ -1,0 +1,23 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/t-shirt-polo/polo-slim-fit-232MTS868750PC001.html
+TYPE
+t-shirt-polo
+CATEGORY
+uomo
+COLOR
+blu
+NAME
+Polo slim fit in jersey rigato di cotone
+DESCRIPTION
+La classica fantasia a righe nei toni "marine" definisce lo stile informale della nuova polo in jersey di cotone. I dettagli del colletto e dei bordi delle maniche corte in maglia a costina completano lo stile del capo, che è caratterizzato da una vestibilità slim, con linee asciutte e vicine al corpo.
+DETAILS
+- Colletto in maglia a costina e apertura con bottoni
+- Polsini in maglia a costina e fondo con orlo ribattuto
+- Slim fit
+- Composizione: 100% COTONE
+SIZES
+XS, S, M, L, XL, XXL, 3XL, 4XL
+PRICE
+550
+IMAGES
+[{'color': 'blu', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwcea3e977/images/large/season-232/232MTS868750PC001-F.jpg'}]

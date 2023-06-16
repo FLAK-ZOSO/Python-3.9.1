@@ -1,0 +1,25 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/maglieria/cardigan-con-bottoni-in-metallo-232M28704506P.html
+TYPE
+maglieria
+CATEGORY
+uomo
+COLOR
+blu
+NAME
+Cardigan un petto e mezzo in cotone con bottoni in metallo
+DESCRIPTION
+Ispirazioni nautiche definiscono lo stile del cardigan un petto e mezzo in cotone, caratterizzato dai classici bottoni in metallo rifiniti a mano. I bordi dei polsini in nuance a contrasto, il collo sciallato e i bottoni sulle spalle completano il capo con elementi distintivi. Grazie alla leggerezza del cotone e ai volumi confortevoli, il cardigan si presta ad essere indossato anche come capospalla per la bella stagione.
+DETAILS
+- Chiusura con bottoni in metallo
+- Collo sciallato
+- Tasche basse orizzontali
+- Polsini e fondo in maglia a costina
+- Mezza maglia inglese
+- Composizione: 100% COTONE
+SIZES
+44, 46, 48, 50, 52, 54, 56
+PRICE
+1.850
+IMAGES
+[{'color': 'blu', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw3826ab5f/images/large/season-232/232M28704506PCC800-F.jpg?sw=400'}]

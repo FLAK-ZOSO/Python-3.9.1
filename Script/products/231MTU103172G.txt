@@ -1,0 +1,24 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/travelwear/pantalone-con-fondo-elasticizzato-231MTU103172GC3397.html
+TYPE
+travelwear
+CATEGORY
+uomo
+COLOR
+off-white
+NAME
+Pantalone in felpa di cotone e lino con fondo elasticizzato
+DESCRIPTION
+Il Travelwear rispecchia uno stile più sportivo della collezione, pensato per i momenti dinamici o per il relax. Materiali tradizionali del mondo dell’activewear sono arrichiti da nuovi dettagli che aggiungono un tocco unico e sofisticato ai capi.
+DETAILS
+- Fascia elasticizzata con coulisse
+- Tasche frontali verticali
+- Tasche posteriori a filetto
+- Fondo a costina
+- Composizione: 58% COTONE, 42% LINO
+SIZES
+XXS, XS, S, M, L, XL, XXL, 3XL, 4XL
+PRICE
+990
+IMAGES
+[{'color': 'off-white', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw6da6b323/images/large/season-231/231MTU103172GC3397-F.jpg'}]

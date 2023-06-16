@@ -1,0 +1,23 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/maglieria/maglia-vanise-231M22700600.html
+TYPE
+maglieria
+CATEGORY
+uomo
+COLOR
+marrone chiaro e 
+NAME
+Maglia vanisé in cashmere a treccia
+DESCRIPTION
+Tecniche moderne si sposano con tradizionali texture della maglieria e preziose fibre naturali. La lavorazione vanisé accentua l’effetto tridimensionale della maglia a treccia in morbido e caldo cashmere, esaltando le ricercate cromie di stagione. Il girocollo, i polsini e l’orlo inferiore a coste completano lo stile casual.
+DETAILS
+- Girocollo in maglia a coste
+- Polsini e fondo in maglia a coste
+- Maglia a treccia
+- Composizione: 100% CASHMERE
+SIZES
+46, 48, 50, 52, 54, 56, 58, 60
+PRICE
+1.950
+IMAGES
+[{'color': 'marrone chiaro', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwc87ecbdc/images/large/season-231/231M22700600CG678-F.jpg'}]

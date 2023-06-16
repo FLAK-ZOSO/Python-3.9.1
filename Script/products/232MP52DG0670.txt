@@ -1,0 +1,25 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/pantaloni/bermuda-con-tasche-cargo-232MP52DG0670C2515.html
+TYPE
+pantaloni
+CATEGORY
+uomo
+COLOR
+ e blu
+NAME
+Bermuda leisure fit in gabardina di cotone ritorto tinto capo con tasche cargo
+DESCRIPTION
+Il gusto casual della gabardina di cotone ritorto tinto capo si abbina perfettamente allo stile sportivo del pantalone bermuda, caratterizzato dalle ampie tasche cargo. Il leisure fit presenta volumi moderni con un taglio leggermente a vita bassa.
+DETAILS
+- Chiusura a zip con bottone e controbottone
+- Tasche frontali "americane"
+- Tasche cargo con patta e bottoni
+- Tasche posteriori a filetto con patta e bottoni
+- Leisure fit
+- Composizione: 97% COTONE, 3% ELASTAN
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58
+PRICE
+890
+IMAGES
+[{'color': 'off-white', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw388c9217/images/large/season-232/232MP52DG0670C5797-F.jpg'}]

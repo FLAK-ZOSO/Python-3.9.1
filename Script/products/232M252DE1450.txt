@@ -1,0 +1,25 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/pantaloni/pantalone-in-gabardina-tinto-capo-232M252DE1450C2200.html
+TYPE
+pantaloni
+CATEGORY
+uomo
+COLOR
+neve
+NAME
+Pantalone leisure fit in gabardina di cotone ritorto tinto capo con pince
+DESCRIPTION
+Tessuti casual si sposano con dettagli di ispirazione sartoriale in questo pantalone confortevole e versatile. La gabardina di cotone ritorto è un tessuto estremamente leggero e confortevole all’indosso. Il leisure fit moderno abbina la pince e linee rilassate sui fianchi ad un taglio leggermente a vita bassa e attillato sulla gamba.
+DETAILS
+- Chiusura a zip con bottone, gancetto in metallo e controbottone
+- Tasche frontali "americane"
+- Pince
+- Tasche posteriori a filetto
+- Fondo 18 cm
+- Leisure fit: cavallo e bacino sono morbidi e i volumi sulla gamba sono affusolati
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58, 60
+PRICE
+590
+IMAGES
+[{'neve': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwbd3c5c5a/images/large/season-232/232M252DE1450C2200-F.jpg'}]

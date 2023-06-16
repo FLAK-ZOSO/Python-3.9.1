@@ -1,0 +1,25 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/capospalla/outerwear-stile-giacca-232M291D6181PC5797.html
+TYPE
+capospalla
+CATEGORY
+uomo
+COLOR
+off-white
+NAME
+Outerwear stile giacca in gabardina di lino e cotone ritorto tinto capo
+DESCRIPTION
+L'outerwear in gabardina di lino e cotone ritorto tinto capo riprende il gusto e i dettagli delle classiche giacche sartoriali per uno stile leggero e disinvolto. Grazie alla struttura sfoderata e ai volumi regolari, il capo si adatta perfettamente alla bella stagione.
+DETAILS
+- Chiusura con tre bottoni stirato a due
+- Tasche basse a toppa
+- Tasca alta a toppa
+- Polsini con quattro bottoni e asole apribili
+- Due tasche interne
+- Sfoderato
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58
+PRICE
+1.890
+IMAGES
+[{'off-white': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwa08bffcc/images/large/season-232/232M291D6181PC5797-F.jpg?sw=400'}]

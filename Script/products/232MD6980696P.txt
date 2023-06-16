@@ -1,0 +1,24 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/camicie/camicia-in-pinpoint-232MD6980696PC6268.html
+TYPE
+camicie
+CATEGORY
+uomo
+COLOR
+tabacco
+NAME
+Camicia easy fit in pinpoint di lino e cotone con taschini
+DESCRIPTION
+Il pregio dei materiali Brunello Cucinelli arricchisce lo stile della camicia in pinpoint di lino e cotone, tessuto naturale dalla mano asciutta e leggermente croccante, ideale per i mesi più caldi. La vestibilità easy è caratterizzata da linee regolari e piuttosto dritte, e da una lunghezza leggermente più corta rispetto agli altri fit che la rende ideale da indossare sopra i pantaloni per uno stile casual.
+DETAILS
+- Chiusura liscia con bottoni
+- Colletto classico
+- Due taschini a toppa con pattina e bottone su petto
+- Polsini con bottone
+- Easy fit
+SIZES
+XS, S, M, L, XL, XXL, 3XL, 4XL
+PRICE
+620
+IMAGES
+[{'tabacco': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw9db53680/images/large/season-232/232MD6980696PC6268-F.jpg?sw=400'}]

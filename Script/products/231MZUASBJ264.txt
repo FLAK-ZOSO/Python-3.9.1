@@ -1,0 +1,23 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/scarpe/sneakers/sneakers-in-vitello-231MZUASBJ264CIM31.html
+TYPE
+sneakers
+CATEGORY
+uomo
+COLOR
+nero
+NAME
+Sneakers in vitello con grana
+DESCRIPTION
+Grazie a materiali pregiati e forme contemporanee, le sneaker e le runner diventano accessori versatili da abbinare sia ad outfit ricercati che casual. Le suole leggere garantiscono un comfort maggiore tutto il giorno.
+DETAILS
+- Chiusura con lacci piatti in tessuto
+- Fodera in pelle
+- Suola in gomma leggera
+- Composizione: VERA PELLE
+SIZES
+39, 40, 40.5, 41, 41.5, 42, 42.5, 43, 43.5, 44, 44.5, 45, 45.5, 46
+PRICE
+790
+IMAGES
+[{'color': 'nero', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwc2c8e8f9/images/large/season-231/231MZUASBJ264CIM31-F.jpg'}]

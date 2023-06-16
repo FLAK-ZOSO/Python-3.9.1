@@ -1,0 +1,24 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/pantaloni/pantalone-leisure-fit-232MP91DE1920C5797.html
+TYPE
+pantaloni
+CATEGORY
+uomo
+COLOR
+off-white
+NAME
+Pantalone leisure fit in gabardina di lino e cotone ritorto tinto capo con doppia pince e coulisse
+DESCRIPTION
+La texture croccante, leggera e fresca della gabardina di lino e cotone ritorto esalta il lato più informale del pantalone d'ispirazione sartoriale. Gli elementi classici della doppia pince e del tirapancia sono infatti abbinati al moderno leisure fit, caratterizzato da volumi morbidi sul bacino e linee vicine alla gamba.
+DETAILS
+Chiusura a zip con bottone e controbottoni
+- Tasche frontali americane con taschino
+- Tasche posteriori a filetto con bottone
+- Leisure fit: cavallo e bacino sono morbidi e i volumi sulla gamba sono affusolati
+- Fondo 18 cm
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58
+PRICE
+830
+IMAGES
+[{'off-white': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw7ad6943a/images/large/season-232/232MP91DE1920C5797-F.jpg'}]

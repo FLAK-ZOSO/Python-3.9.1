@@ -1,0 +1,22 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/maglieria/maglia-in-cashmere-232M22707300CWI20.html
+TYPE
+maglieria
+CATEGORY
+uomo
+COLOR
+bianco
+NAME
+Maglia di cashmere con agugliatura
+DESCRIPTION
+Una tecnica di lavorazione artigianale e antica caratterizza lo stile della maglia in puro cashmere. Il ricamo con agugliatura è impiegato per ricreare la scritta "Humanitas" che richiama i valori umanistici che da sempre guidano l'impresa di Solomeo. Il caratteristico effetto sfumato del ricamo accentua l'effetto speciale del capo.
+DETAILS
+- Girocollo in maglia a costina
+- Polsini e fondo in maglia a costina
+- Maglia rasata
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58, 60
+PRICE
+3.200
+IMAGES
+[{'bianco': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwc4de1bd1/images/large/season-232/232M22707300CWI20-F.jpg'}]

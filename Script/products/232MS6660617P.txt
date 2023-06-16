@@ -1,0 +1,24 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/camicie/camicia-in-oxford-232MS6660617P.html
+TYPE
+camicie
+CATEGORY
+uomo
+COLOR
+bianco
+NAME
+Camicia easy fit in Oxford leggero con collo francese
+DESCRIPTION
+Il fresco cotone Oxford impreziosisce la camicia leggera con colletto alla francese, dallo stile classico e allo stesso tempo versatile. La vestibilità easy è caratterizzata da linee regolari e piuttosto dritte, e da una lunghezza leggermente più corta rispetto agli altri fit che la rende ideale da indossare sopra i pantaloni per uno stile casual.
+DETAILS
+- Chiusura con cannoncino e bottoni di madreperla
+- Colletto francese
+- Polsini con un bottone in madreperla
+- Easy fit
+- Composizione: 100% COTONE
+SIZES
+XS, S, M, L, XL, XXL, 3XL, 4XL
+PRICE
+440
+IMAGES
+[{'color': 'bianco', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwd7c82afd/images/large/season-232/232MS6660617PC001-F.jpg'}]

@@ -1,0 +1,22 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/scarpe/leisure/slip-on-in-camoscio-232MPUIHCI782C8137.html
+TYPE
+leisure
+CATEGORY
+uomo
+COLOR
+ e blu
+NAME
+Slip-on in camoscio intrecciato con inserto in corda
+DESCRIPTION
+Il pregio dei materiali Brunello Cucinelli reinterpreta in chiave ricercata lo stile casual della slip-on in camoscio. Il soffice e sottile pellame viene lavorato con un particolare motivo a intreccio che ricopre l'intera tomaia con un effetto sofisticato di texture. L'abbinamento con l'inserto in corda sul fondo richiama le classiche espadrillas e completa il gusto leggero della calzatura.
+DETAILS
+- Fodera in pelle
+- Suola in poliuretano espanso leggero
+- Composizione: VERA PELLE
+SIZES
+39, 40, 40.5, 41, 42, 42.5, 43, 44, 45, 46
+PRICE
+890
+IMAGES
+[{'color': 'beige', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw5e272ef7/images/large/season-232/232MPUIHCI782C8162-F.jpg'}]

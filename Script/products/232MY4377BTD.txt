@@ -1,0 +1,26 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/giacche/giacca-decostruita-232MY4377BTDC006.html
+TYPE
+giacche
+CATEGORY
+uomo
+COLOR
+grigio medio
+NAME
+Giacca decostruita in tartan frisé di lana, seta e cashmere
+DESCRIPTION
+L'aspetto caratteristico del tartan frisé di lana, seta e cashmere arricchisce l'attitudine informale della giacca Cavallo. Il tessuto offre un aspetto materico lievemente irregolare che contribuisce a sfumare il tipico disegno sartoriale d'ispirazione british. La "Spalla Solomeo", così chiamata in onore del borgo che ospita l'azienda, contraddistingue la giacca Brunello Cucinelli con proporzioni distintive. La linea della spalla asciutta e al tempo stesso importante valorizza la fisicità maschile, senza necessità di ricorrere all'imbottitura.
+DETAILS
+- Chiusura con tre bottoni stirato a due
+- Tasche a filetto con patta, ticket pocket e taschino su petto
+- Polsini con bottoni
+- Mezza fodera in cupro
+- Due tasche interne con chiusura a bottone e tasca portapenna
+- Drop 7
+- Spacco doppio su retro
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58, 60
+PRICE
+4.900
+IMAGES
+[{'grigio medio': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwf8df911a/images/large/season-232/232MY4377BTDC006-F.jpg'}]

@@ -1,0 +1,25 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/capospalla/bomber-idrorepellente-232MY4196882.html
+TYPE
+capospalla
+CATEGORY
+uomo
+COLOR
+off-white
+NAME
+Bomber in cotone techno idrorepellente
+DESCRIPTION
+Lo stile iconico del bomber è abbinato al tocco sportivo del tessuto di cotone techno idrorepellente, ideale per la stagione intermedia. I profili in maglia di cotone a costina sul colletto, i polsini e il fondo completano il capo con i pregiati filati della maglieria Brunello Cucinelli.
+DETAILS
+- Chiusura con zip e doppio cursore
+- Fodera in nylon idrorepellente
+- Due tasche interne con bottone e un portapenna
+- Tasca su manica
+- Tasche basse con zip
+- Polsini e fondo in maglia a costina
+SIZES
+44, 46, 48, 50, 52, 54, 56, 58, 60, 62
+PRICE
+2.650
+IMAGES
+[{'off-white': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw15ce53da/images/large/season-232/232MY4196882CJY34-F.jpg'}]

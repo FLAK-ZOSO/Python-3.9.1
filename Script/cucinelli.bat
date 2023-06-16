@@ -1,0 +1,1 @@
+python cucinelli.py https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/pantaloni/pantalone-leisure-fit-232MP91DE1920C5797.html

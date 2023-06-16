@@ -1,0 +1,24 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/capospalla/outerwear-stile-camicia-232M291D6180PC2515.html
+TYPE
+capospalla
+CATEGORY
+uomo
+COLOR
+blu e 
+NAME
+Outerwear stile camicia in gabardina di lino e cotone ritorto tinto capo
+DESCRIPTION
+L'ispirazione prettamente casual dell'outerwear stile camicia in gabardina di lino e cotone ritorto tinto capo si adatta perfettamente allo spirito leggero della nuova collezione. I dettagli, le proporzioni e il gusto tipico delle camicie sono abbinati anche agli originali taschini doppi e ai volumi dritti e rilassati.
+DETAILS
+- Chiusura con bottoni in corno
+- Taschino su petto con doppia apertura a bottone
+- Polsini con bottone
+- Sfoderato
+- Composizione: 54% LINO, 46% COTONE
+SIZES
+44, 46, 48, 50, 52, 54, 56
+PRICE
+1.490
+IMAGES
+[{'color': 'blu', 'url': 'https://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dwb88e3562/images/large/season-232/232M291D6180PC2515-F.jpg'}]

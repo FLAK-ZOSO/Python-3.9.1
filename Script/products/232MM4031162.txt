@@ -1,0 +1,27 @@
+URL
+https://shop.brunellocucinelli.com/it-it/uomo/ready-to-wear/capospalla/piumino-senza-maniche-in-nylon-232MM4031162CFF68.html
+TYPE
+capospalla
+CATEGORY
+uomo
+COLOR
+off-white
+NAME
+Piumino senza maniche in nylon membranato con cappuccio staccabile
+DESCRIPTION
+Il gusto sportivo del piumino senza maniche in nylon membranato è ideale per creare giochi di sovrapposizione durante i mesi di transizione. Il capo presenta dettagli casual come le tasche basse con zip e il taschino sul petto, ispirato al mondo delle giacche. La soffice imbottitura in piumino e piuma d'oca di prima qualità perfeziona comfort e protezione all'indosso, mentre il cappuccio staccabile e regolabile con coulisse completa il piumino con una nota versatile.
+DETAILS
+- Chiusura con bottoni automatici
+- Collo in piedi
+- Fodera in nylon idrorepellente
+- Due tasche interne con bottone e un portapenna
+- Cappuccio removibile, foderato e regolabile con coulisse
+- Taschino su petto
+- Tasche basse con zip
+- Imbottitura realizzata con materiali naturali di alta qualità: 90% piumino d'oca, 10% piuma d'oca
+SIZES
+XXS, XS, S, M, L, XL, XXL, 3XL, 4XL, 5XL
+PRICE
+2.700
+IMAGES
+[{'off-white': 'https://shop.brunellocucinelli.comhttps://shop.brunellocucinelli.com/on/demandware.static/-/Sites-catalog-master-bc/default/dw7e19f5e7/images/large/season-232/232MM4031162CFF68-F.jpg'}]
